@@ -23,34 +23,6 @@ It is built with **Bootstrap 5**, **Slick.js**, and **custom CSS/JS** to ensure 
 
 ---
 
-## 🗂 Project Structure  
-ElyasTemplate/
-├── index.html # Main landing page
-├── css/
-│ ├── bootstrap.min.css
-│ ├── bootstrap-icons.css
-│ ├── slick.css
-│ └── tooplate-little-fashion.css
-├── js/
-│ ├── bootstrap.bundle.min.js
-│ ├── jquery.min.js
-│ ├── slick.min.js
-│ ├── Headroom.js
-│ ├── jQuery.headroom.js
-│ └── custom.js
-├── images/
-│ ├── MRKLogo.jpeg
-│ ├── Metaverse Image.jpeg
-│ ├── MRKToken.jpeg
-│ ├── Psquare.jpeg
-│ ├── Stardust.jpeg
-│ ├── Stardust2.jpeg
-│ ├── Emp0.jpeg
-│ ├── Emp1.jpeg
-│ └── Emp2.jpeg
-
----
-
 ## 🚀 Getting Started  
 
 ### 1. Clone the repository  
